@@ -31,10 +31,11 @@
     "npm": ">= 1.4.0"
   },
   "dependencies": {
+    "@sailshq/lodash": "^3.10.2",
+    "bluebird": "3.5.0",
     "convert-to-ecmascript-compatible-varname": "0.1.4",
     "debug": "2.2.0",
     "include-all": "^1.0.5",
-    "@sailshq/lodash": "^3.10.2",
     "rttc": "^9.8.1",
     "switchback": "^2.0.1"
   },
